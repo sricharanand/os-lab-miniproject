@@ -30,38 +30,28 @@ The project aims to design and implement a client-server-based system that simul
 ## OUTPUT SCREENSHOTS
 <figure>
 <img width="712" height="452" alt="image" src="https://github.com/user-attachments/assets/1b7b0d7b-2ae2-4b33-9ebb-a970022194ad" />
-  
 <figcaption> Figure 1: Creation of Piece Directory by Administrator </figcaption>
 </figure>
 
-
 <figure>
 <img width="756" height="938" alt="image" src="https://github.com/user-attachments/assets/92ffb641-158e-4019-9e55-7c3fea0f1fec" />
-  
 <figcaption> Figure 2: Adding a Note to a Part File; file locking ensures concurrency control </figcaption>
 </figure>
 
-
 <figure>
 <img width="1591" height="840" alt="image" src="https://github.com/user-attachments/assets/91ac070c-830d-4790-95a9-703ed44ab99f" />
-  
 <figcaption> Figure 3: Ready State: Instrumentalists join rehearsal and enter ready state. </figcaption>
 </figure>
 
-
 <figure>
 <img width="1792" height="704" alt="image" src="https://github.com/user-attachments/assets/a643d86c-7782-4b7a-835f-c783fbbe818c" />
-  
 <figcaption> Figure 4: Synchronised Tick Broadcast from Server to Instrumentalists </figcaption>
 </figure>
 
-
 <figure>
 <img width="1792" height="704" alt="image" src="https://github.com/user-attachments/assets/dce3a37b-bb67-476f-832c-00332666bc4e" />
-  
 <figcaption> Figure 5: A client joining mid-rehearsal synchronises with the current tick and executes accordingly </figcaption>
 </figure>
-
 
 ## CHALLENGES FACED and SOLUTIONS
 ### 1. BLOCKING SOCKET BEHAVIOUR
